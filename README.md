@@ -6,6 +6,10 @@ v2机场炸库注册机
 ✅ 日志输出更清晰：可以直观看到哪个线程在注册哪些账号。
 
 
+克隆脚本到服务器 
+git clone https://github.com/aiscloud/v2register
+cd v2register
+
 脚本1的安装环境：
 
 
