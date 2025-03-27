@@ -68,3 +68,12 @@ num_threads = 50  # 50个线程，每个线程注册500000个账号
 
 
 ps：本脚本仅支持未开验证的机场，开了验证的请自行优化! 下个版本加刷邮箱。
+
+脚本1的效果图！![image](https://github.com/user-attachments/assets/64a3faae-1e9b-4251-8778-062a1254c2d4)
+
+脚本2效果图！![image](https://github.com/user-attachments/assets/ddb2282d-9c4f-4445-9771-eef711a1aaa3)
+
+线程拉满和cc效果一样的，实测图：![image](https://github.com/user-attachments/assets/35b938ee-29b7-42f6-b341-9239fc8bc403)
+
+脚本2 跑了20分钟多 四舍五入一下大概20万条注册号 20M大概是18w多 <img width="941" alt="image" src="https://github.com/user-attachments/assets/73fa5999-6fde-4c63-8563-284070635a10" />
+
