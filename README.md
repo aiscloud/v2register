@@ -8,7 +8,11 @@ v2机场炸库注册机
 
 克隆脚本到服务器 
 git clone https://github.com/aiscloud/v2register
+
+
 cd v2register
+
+
 
 脚本1的安装环境：
 
